@@ -530,7 +530,7 @@ for (var i=0;i<document.querySelectorAll(".op").length;i++){
 
 
     
-// işlem önceliğine bak.
+
 
 
 
